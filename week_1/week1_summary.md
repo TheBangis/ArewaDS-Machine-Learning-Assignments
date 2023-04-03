@@ -1,4 +1,4 @@
-## Week One Summary
+# Week One Summary
 In this week lesson we have take of four topics which includes, Introduction to machine learning. History of Machine Learning, Fairness and Techniques of Machine Learning.
 
 #### How to get started with machine learning
