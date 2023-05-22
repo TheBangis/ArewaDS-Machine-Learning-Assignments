@@ -4,10 +4,10 @@
 | Week | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  [Introduction to Machine Learning](https://github.com/TheBangis/ML-4-Beginners-Arewa-Datascience/tree/main/1-Introduction)|
-| 02  |  Workin With Data|
-| 03  |  Data Visualization|
-| 04  |  Linear Regression)|
-| 05  |  Classification|
+| 02  |  [Workin With Data](https://github.com/TheBangis/ML-4-Beginners-Arewa-Datascience/tree/main/2-Working-With-Data)|
+| 03  |  [Data Visualization](https://github.com/TheBangis/ML-4-Beginners-Arewa-Datascience/tree/main/3-Data-Visualization)|
+| 04  |  [Regression](https://github.com/TheBangis/ML-4-Beginners-Arewa-Datascience/tree/main/2-Regression)|
+| 05  |  [Classification](https://github.com/TheBangis/ML-4-Beginners-Arewa-Datascience/tree/main/4-Classification)|
 | 06  |  Clustering|
 | 07  |  NLP|
 | 08  |  Time Series|
